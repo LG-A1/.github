@@ -1,4 +1,5 @@
 ## 🏠 [Kusitms 32nd X LG] 기업 프로젝트
+> 서비스 한 줄 소개
 
 ## 🖥️ Developer Members
 | **박진우** | **이환석** | **주정빈** | **우다현** |
@@ -7,8 +8,10 @@
 | `frontend` | `frontend` | `backend` | `backend` |
 
 ## 🗂️ ERD
+<img width="1939" height="1221" alt="LG-A1 (2)" src="https://github.com/user-attachments/assets/0e02bd06-cf63-4bf3-b5e0-bd29ef507fc4" />
 
 ## ⚙️ System Architecture
+<img width="1671" height="541" alt="image" src="https://github.com/user-attachments/assets/9cb2081e-1a2f-4fa2-a778-0d2b597e0bb3" />
 
 ## 🛠️ 기술 스택
 
