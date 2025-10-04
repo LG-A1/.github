@@ -7,9 +7,6 @@
 | <a href="https://github.com/nagosu"><img src="https://avatars.githubusercontent.com/u/100352367?v=4" width="150"> | <a href="https://github.com/hwanseok1014"><img src="https://avatars.githubusercontent.com/u/159034916?v=4" width="150"> | <a href="https://github.com/zyovn"><img src="https://avatars.githubusercontent.com/u/166782961?v=4" width="150"> | <a href="https://github.com/dahyun24"><img src="https://avatars.githubusercontent.com/u/123882512?v=4" width="150"> | 
 | `frontend` | `frontend` | `backend` | `backend` |
 
-## 🗂️ ERD
-<img width="1939" height="1221" alt="LG-A1 (2)" src="https://github.com/user-attachments/assets/0e02bd06-cf63-4bf3-b5e0-bd29ef507fc4" />
-
 ## ⚙️ System Architecture
 <img width="1671" height="541" alt="image" src="https://github.com/user-attachments/assets/9cb2081e-1a2f-4fa2-a778-0d2b597e0bb3" />
 
